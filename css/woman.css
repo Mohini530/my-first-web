@@ -1,0 +1,366 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.main1 {
+    background-color: rgb(6, 93, 93);
+  position: fixed;
+  width: 100%;
+  margin-bottom: none;
+  margin-top: 0;
+}
+.main1 ul a{
+    text-decoration: none;
+    margin-left: 30px;
+    
+}
+.btn{
+    margin-left: 300px;
+}
+.main{
+    position:  relative;
+    position: fixed;
+    width: 100%;
+}
+.main img {
+    width: 130px;
+    position:absolute;
+    top:60px;
+}
+.main ul{
+    position:relative;
+   
+    top:50px;
+}
+/* ------------------------------------------------------------------------ */
+
+ .coon img{
+   width: 100%;
+   background-repeat: no-repeat;
+   top: 100px;
+   position:relative
+   
+}
+
+.coon .hed{
+    position:relative;
+   
+    bottom: 390px;
+    margin-left: 150px;
+  
+}
+.bold button{
+    font-size: 20px;
+    color: rgb(36, 187, 187);
+    border: none;
+    background-color: #ffffff;
+}
+.bold button:hover{
+   background-color: rgb(35, 188, 188);
+   color:#ffffff;
+}
+.bold button.boon {
+    color: #ffffff;
+    background-color: rgb(31, 187, 187);
+}
+ .hed h5{
+    font-size: 40px;
+}
+.hed .prad{
+    font-size: 20px;
+}
+.vren button{
+    border-radius: 23px;
+    border: 1px solid rgb(4, 146, 158);
+}
+.vren button:hover{
+    background-color: rgb(4, 146, 158) ;
+    color: #ffffff;
+} 
+
+/* ------------------------------------------------------------- */
+
+.carnt {
+    position:relative;
+    width: 100%;
+   
+    
+}
+.overlay{
+    color: rgb(50, 50, 50);
+}
+.carnt .card img{
+    width: 100%;
+    position: absolute;
+    padding: 23px ; 
+    
+    
+}
+.card .btn{
+    color: rgb(28, 82, 33);
+    position: relative;
+    
+    margin-top: 89px;
+    margin-left: 45px;
+}
+.card .btn:hover{
+    color:rgb(235, 80, 24);
+}
+.card {
+    background-color: rgb(214, 212, 212);
+    border: 3px solid rgb(46, 107, 46);
+    height: 300px;
+    position: relative;
+    top: -238px;
+}
+.card h4{
+    position: relative;
+    top:90px;
+}
+.card:hover{
+    border: 3px solid rgb(235, 80, 24);
+
+}
+.card b button{
+    position: relative;
+    padding-left: 50px;
+}
+.card p{
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    position: relative;
+    top:90px;
+} 
+/* ---------------------------------------------------- */
+
+ .box1{
+    width: 100%;
+    float: left;
+    position: absolute;
+}
+.images img{
+    position: relative;
+    top:-160px;
+}
+.medical {
+    position: relative;
+    top:-110px;
+}
+.medical h4{
+    font-weight: 50px;
+}
+.medical img{
+    margin-bottom: 20px;
+}
+.medical h5{
+    color: aqua;
+    line-height: 35px;
+}
+.medical p{
+    margin-bottom: 30px;
+} 
+/* ----------------------------------------------------- */
+
+.demo{
+    width: 100%;
+    float: left;
+    position: absolute;
+}
+.demo1 img{
+    width: 100%;
+    position: relative;
+    top:400px;
+    height: 330px;
+}
+.sunday h4{
+    margin-bottom: 30px;
+}
+.sunday {
+    position: relative;
+    top:150px;
+}
+.sunday h3{
+    background-color: aqua;
+    color: #ffffff;
+    margin-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+   
+}
+/* -------------------------------------------------------- */
+.assing{
+    position: absolute;
+    width: 100%;
+    float: left;
+}
+.assing img{
+    position: relative;
+    width: 100%;
+    height: 600px;
+    top:283px;
+}
+.servic{
+    position: relative;
+    border: 3px solid rgb(239, 88, 33);
+    background-color: #ffffff;
+    top:-200px;
+}
+.servis1{
+    position: relative;
+    top:-200px;
+}
+.servis1 h4{
+    position: relative; 
+    top:-39px;
+}
+.servis1 img{
+    position: relative;
+    width: 80px;
+    height: 30px;
+    top:-25px;
+}
+.some{
+    display: none;
+}
+.servic:hover .some{
+    display: block;
+    position: relative;
+}
+
+.contact1{
+    position: relative;
+    top:-520px;
+}
+.contact1 img{
+    position: relative;
+    height: 730px;
+    width: 90%;
+    
+   
+} */
+/* -------------------------------------------------------- */
+.meet123{
+    position: absolute;
+    width: 100%;
+    float: left;
+  
+}
+.romo{
+    position: relative;
+    top:947px;
+}
+.meet123 h3{
+    position: relative;
+}
+.doon {
+    border: 1px solid rgb(158, 157, 157);
+    position: relative;
+    top:967px;
+    text-align: center;
+}
+.doon img{
+    position: relative;
+    width: 100%;
+}
+.dr{
+    color: #101010;
+    padding-bottom: 6px;
+    padding-top: 5px;
+}
+.dr:hover{
+    background-color: aqua;
+    color: #ffffff;
+} 
+.dr{
+    display: none;
+}
+.doon:hover .h4 p{
+    display: block;
+    position: relative;
+} 
+/* .overlay{
+    background-color: rgb(14, 13, 13, 0.8);
+} */ 
+
+
+   
+
+
+/* .main1 {
+  background-color: rgb(6, 93, 93);
+  position: fixed; 
+  width: 100%;
+ padding-bottom: none;
+  margin-top: 0;
+ position: absolute;
+}
+.main1 {
+    background-color: rgb(6, 93, 93);
+   position: fixed;
+  width: 100%;
+  margin-top: 0;
+  padding-bottom: none;
+  
+}
+.main1 ul a{
+    text-decoration: none;
+    margin-left: 30px;
+    
+}
+.btn{
+    margin-left: 300px;
+}
+
+.main{
+    width: 100%;
+    float: left;
+     position: fixed; 
+   
+
+}
+.main img{
+    margin-top: 40px;
+    
+    bottom:50px;
+}
+.collapse ul{
+   margin-bottom:50px; 
+}
+/* ------------------------------------------------- */
+
+.coon{
+    position: relative;
+    width: 100%;
+    float: left;
+     
+}
+/*.coon img{
+    width: 100%;
+    position: relative;
+  
+   
+}
+.coon .hed{
+    position:relative;
+   
+    bottom: 390px;
+    margin-left: 150px;
+  
+}
+.bold button{
+    font-size: 20px;
+    color: rgb(36, 187, 187);
+    border: none;
+    background-color: #ffffff;
+}
+.bold button:hover{
+   background-color: rgb(35, 188, 188);
+   color:#ffffff;
+}
+.bold button.boon {
+    color: #ffffff;
+    background-color: rgb(31, 187, 187);
+} */
